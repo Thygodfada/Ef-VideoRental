@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\VidzyCodeFirstProject.exe.config
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\VidzyCodeFirstProject.exe
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\VidzyCodeFirstProject.pdb
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.csproj.CopyComplete
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.exe
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.pdb
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.Migrations.initialModel.resources
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.csproj.GenerateResource.cache
