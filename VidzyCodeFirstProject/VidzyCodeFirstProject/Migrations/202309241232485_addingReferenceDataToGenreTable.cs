@@ -7,16 +7,17 @@
     {
         public override void Up()
         {
-            Sql("Insert into Genres (Name) values (Action)");
-            Sql("Insert into Genres (Name) values (Comedy)");
-            Sql("Insert into Genres (Name) values (Sci-Fi)");
-            Sql("Insert into Genres (Name) values (Horror)");
-            Sql("Insert into Genres (Name) values (Animation)");
-            Sql("Insert into Genres (Name) values ()");
+            Sql("Insert into dbo.Genres (id, Name) values(1, 'Action')");
+            Sql("Insert into dbo.Genres (id, Name) values (2, 'Comedy')");
+            Sql("Insert into dbo.Genres (id, Name) values (3, 'Sci-Fi')");
+            Sql("Insert into dbo.Genres (id, Name) values (4, 'Horror')");
+            Sql("Insert into dbo.Genres (id, Name) values (5, 'Animation')");
+            Sql("Insert into dbo.Genres (id, Name) values (6, 'Fantasy')");
         }
         
         public override void Down()
         {
+            Sql("Delete from dbo.Genres");
         }
     }
 }

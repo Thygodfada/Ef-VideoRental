@@ -64,6 +64,10 @@
     <Compile Include="Migrations\202309241232485_addingReferenceDataToGenreTable.designer.cs">
       <DependentUpon>202309241232485_addingReferenceDataToGenreTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs" />
+    <Compile Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.designer.cs">
+      <DependentUpon>202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="VidzyModel.cs" />
     <Compile Include="Program.cs" />
@@ -80,6 +84,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202309241232485_addingReferenceDataToGenreTable.resx">
       <DependentUpon>202309241232485_addingReferenceDataToGenreTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.resx">
+      <DependentUpon>202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
