@@ -14,3 +14,4 @@ C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstPr
 C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.csproj.GenerateResource.cache
 C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.Migrations.addingReferenceDataToGenreTable.resources
 C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.Migrations.modifyRelationshipBetweenVideoTableAndGenreTable.resources
+C:\Users\DELL\source\repos\Ef-VideoRental\VidzyCodeFirstProject\VidzyCodeFirstProject\obj\Debug\VidzyCodeFirstProject.Migrations.AddClassificationColumnTovideoTable.resources

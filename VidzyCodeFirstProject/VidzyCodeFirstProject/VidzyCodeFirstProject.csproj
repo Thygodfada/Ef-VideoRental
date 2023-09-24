@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classification.cs" />
     <Compile Include="Genre.cs" />
     <Compile Include="Migrations\202309241228358_initialModel.cs" />
     <Compile Include="Migrations\202309241228358_initialModel.designer.cs">
@@ -67,6 +68,10 @@
     <Compile Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs" />
     <Compile Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.designer.cs">
       <DependentUpon>202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202309241310376_AddClassificationColumnTovideoTable.cs" />
+    <Compile Include="Migrations\202309241310376_AddClassificationColumnTovideoTable.designer.cs">
+      <DependentUpon>202309241310376_AddClassificationColumnTovideoTable.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="VidzyModel.cs" />
@@ -87,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.resx">
       <DependentUpon>202309241255261_modifyRelationshipBetweenVideoTableAndGenreTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202309241310376_AddClassificationColumnTovideoTable.resx">
+      <DependentUpon>202309241310376_AddClassificationColumnTovideoTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
